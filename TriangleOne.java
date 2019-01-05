@@ -44,7 +44,6 @@ public class TriangleOne
 
 	public static void main (String args[])
 	{
-		// This is the main function
 		Scanner keyboard = new Scanner(System.in);
 		String choice = "";
 			do{
